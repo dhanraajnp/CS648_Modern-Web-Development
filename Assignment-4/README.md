@@ -4,7 +4,7 @@ CS648 Module 4 Assignment
 **Project Structure**
 
    * There are 3 different page layouts that are designed using Grid model
-   * There are 3 HTML files and corresponding stylesheets in the `root/styles` folder.
+   * There are 3 HTML files and corresponding stylesheets in the `styles` folder.
    
 **Using the Web page**
 
